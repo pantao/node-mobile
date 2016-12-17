@@ -1,0 +1,29 @@
+{
+  "name": "node-mobile",
+  "version": "0.0.0",
+  "description": "Mobile number generator and tester.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pantao/node-mobile.git"
+  },
+  "keywords": [
+    "Node",
+    "Mobile",
+    "China",
+    "Mobile",
+    "China",
+    "Union",
+    "China",
+    "Telcom"
+  ],
+  "author": "潘韬 <54778899@qq.com> (http://onmr.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pantao/node-mobile/issues"
+  },
+  "homepage": "https://github.com/pantao/node-mobile#readme"
+}
