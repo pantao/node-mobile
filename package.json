@@ -1,6 +1,6 @@
 {
   "name": "node-mobile",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Mobile number generator and tester.",
   "main": "index.js",
   "scripts": {
